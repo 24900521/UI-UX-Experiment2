@@ -2,102 +2,38 @@
 
 ## Aim:
 
-The primary aim is to develop a highly usable, consistent, and responsive User Interface (UI) design for the TaskFlow project management application across both desktop web and mobile platforms. 
+To design responsive mobile and web layouts for an existing digital product by applying Gestalt principles, UI patterns, usability guidelines, and branding techniques — ensuring a cohesive and user-centered experience.
 
 ## Algorithm:
 
-Select an Existing Case Study:
-Choose any existing website or app (e.g., Swiggy, Zomato, Spotify, Amazon, Netflix) for redesign or improvement.
+**Step 1: Select an Existing Case Study**
 
-Analyze the Current Interface:
+Choose a real-world app or website as a reference (e.g., Zomato, Uber, Flipkart). Understand the core purpose, target audience, and existing user flow.
 
-Identify UI/UX problems.
+**Step 2: Apply Gestalt Principles**
 
-Study color schemes, typography, and layout.
+Study Gestalt principles such as proximity, similarity, continuity, closure, and figure-ground.Incorporate these principles into layout wireframes to enhance visual hierarchy and organization.
 
-Note usability issues or navigation difficulties.
+**Step 3: Design UI Layouts (Mobile and Web)**
 
-Apply Gestalt Principles:
-Use these visual organization principles in your redesign:
+Use a design tool like Figma or Adobe XD to create mobile and web wireframes.Add common UI elements like navigation bars, buttons, input fields, modals, and cards.Follow responsive design best practices for different screen sizes.
 
-Proximity: Group related items together (e.g., product name and price).
+**Step 4: Integrate Interaction and Usability Features**
 
-Similarity: Use consistent colors and fonts for similar elements.
+Define and design interaction behaviors such as hover states, transitions, and feedback.Ensure usability by following principles like consistency, feedback, affordance, and accessibility.Simulate user journeys (e.g., onboarding, checkout, profile edit) in prototypes.
 
-Continuity: Align design elements for smooth visual flow.
+**Step 5: Design a Brand Logo**
 
-Closure: Create complete forms even with partial visuals (e.g., logos).
+Use Canva to design a simple brand logo that reflects the product's identity.Follow branding guidelines: consistent colors, fonts, and scalable design.Export and embed the logo into both web and mobile layouts.
 
-Figure–Ground: Distinguish main content (foreground) from background.
+**Step 6: Review and Document**
 
-Design the Layouts:
-
-Mobile Layout: Use a single-column structure for clarity.
-
-Web Layout: Use grid or multi-column layout for desktop screens.
-
-Include essential UI elements:
-
-Navigation bar
-
-Buttons and icons
-
-Cards and containers
-
-Forms and inputs
-
-Footer section
-
-Incorporate Design Patterns:
-
-Navigation patterns: Tab bar (mobile), sidebar or top nav (web)
-
-Scrolling patterns: Infinite scroll or pagination
-
-Input patterns: Search bar, filters, and dropdowns
-
-Feedback patterns: Toasts, alerts, loading spinners
-
-Develop Interaction Behaviors and Usability Principles:
-
-Ensure responsiveness across devices.
-
-Apply Fitts’ Law (easy-to-tap buttons).
-
-Maintain consistency in design elements.
-
-Provide feedback (e.g., hover states, active buttons).
-
-Support error prevention and recovery.
-
-Create a Brand Logo (Using Canva):
-
-Choose a color palette and font consistent with your theme.
-
-Design a simple, memorable, and scalable logo.
-
-Export in PNG/SVG format and include it in your layouts.
-
-Combine Layout and Logo:
-
-Insert the logo in the header or navigation bar.
-
-Showcase both mobile and web versions side by side.
-
-Document Your Design:
-
-Mention the case study name.
-
-Display both layouts and explain Gestalt principle application.
-
-Include the logo design and brand guidelines.
+Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 
 ## Output:
-<img width="1024" height="1024" alt="Gemini_Generated_Image_2slhq12slhq12slh" src="https://github.com/user-attachments/assets/a602c346-8417-4b55-a030-d40547585162" />
 
+[lab.experiment.2 (1).pdf](https://github.com/user-attachments/files/22087441/lab.experiment.2.1.pdf)
 
 ## Result:
 
-The execution of the above algorithm results in the following predictable outcomes for the TaskFlow application:
-
-
+Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
